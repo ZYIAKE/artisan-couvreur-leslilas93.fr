@@ -1,0 +1,17 @@
+{
+  "name": "SAS FL Couverture",
+  "short_name": "SAS FL Couverture",
+  "description": "Couvreur à Les Lilas",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#ffffff",
+  "theme_color": "#0F4C81",
+  "icons": [
+    {
+      "src": "/img/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
